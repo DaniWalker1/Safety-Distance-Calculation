@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safety Distance Calculation", "Safety Distance Calculation\Safety Distance Calculation.csproj", "{FBE610CD-C92D-42BF-BCEF-ED4D09D63DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE610CD-C92D-42BF-BCEF-ED4D09D63DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE610CD-C92D-42BF-BCEF-ED4D09D63DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE610CD-C92D-42BF-BCEF-ED4D09D63DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE610CD-C92D-42BF-BCEF-ED4D09D63DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04CA5CE1-47A9-4DC7-B760-0B5531FE2960}
+	EndGlobalSection
+EndGlobal
